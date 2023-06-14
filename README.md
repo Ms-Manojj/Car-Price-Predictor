@@ -1,2 +1,2 @@
 # Car-Price-Predictor
-will write leter
+I have developed a Car Price Predictor model. This model predicts the price of a car based on various features such as the car's name, variant, kilometer reading, and current market price. It solves a regression machine learning problem, and we have achieved an accuracy of 90% using linear regression. We have also created a user-friendly graphical user interface (GUI) for this model.
